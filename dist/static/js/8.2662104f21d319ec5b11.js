@@ -1,0 +1,2 @@
+webpackJsonp([8],{"0FS/":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"route2"},[this._v("\r\n    我是router里面的route2页面\r\n")])},staticRenderFns:[]};var u=n("VU/8")({},r,!1,function(e){n("uBIx")},null,null);t.default=u.exports},uBIx:function(e,t){}});
+//# sourceMappingURL=8.2662104f21d319ec5b11.js.map

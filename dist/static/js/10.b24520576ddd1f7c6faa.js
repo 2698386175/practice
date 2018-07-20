@@ -1,0 +1,2 @@
+webpackJsonp([10],{ANFK:function(t,e,r){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var n={mounted:function(){console.log(this.$route.params)}},s={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"route1"},[this._v("\r\n    我是router里面的route1页面\r\n    "+this._s(this.$route.params)+"\r\n")])},staticRenderFns:[]};var o=r("VU/8")(n,s,!1,function(t){r("KTr/")},null,null);e.default=o.exports},"KTr/":function(t,e){}});
+//# sourceMappingURL=10.b24520576ddd1f7c6faa.js.map
